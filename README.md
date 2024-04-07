@@ -1,4 +1,4 @@
-<h1 style="color: blue, text-align:center font-size: 200%">Welcome to my GitHub Space!</h1>
+<h1>Welcome to my GitHub Space!</h1>
 
 ```py 
 name = "Johan Uriel Olarra Rubio"
